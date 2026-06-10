@@ -34,5 +34,11 @@ We used it to install and start nginx without manually SSHing into instances.
 | `terraform apply` | Create infrastructure |
 | `terraform destroy` | Delete everything |
 
+
 ## Screenshots
-See /screenshots folder for all output proofs.
+All execution screenshots are in the `/screenshots` folder including:
+- terraform plan output
+- terraform apply complete with IP outputs  
+- Nginx running on Sydney browser
+- Nginx running on Singapore browser
+- AWS Console showing both instances
